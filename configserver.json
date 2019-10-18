@@ -1,0 +1,7 @@
+{
+	"git": {
+		"uri": "https://github.com/Ajaykumarkolipaka/Config-server.git",
+		"label":"master",
+		"searchPaths":"configurations/"
+	}
+}

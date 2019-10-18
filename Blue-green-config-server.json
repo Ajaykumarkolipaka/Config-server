@@ -1,0 +1,21 @@
+{
+	"git" : {
+		"uri" : "https://github.com/Ajaykumarkolipaka/Config-server.git",
+				"label" : "master",
+				"searchPaths" : "configurations/",
+		"repos" : {
+			"blue" : {
+				"pattern" : "*blue",
+				"uri" : "https://github.com/Ajaykumarkolipaka/Config-server.git",
+				"label" : "master",
+				"searchPaths" : "configurations/"
+			},
+			"green" : {
+				"pattern" : "*green",
+				"uri" : "https://github.com/Ajaykumarkolipaka/Config-server.git",
+				"label" : "release",
+				"searchPaths" : "configurations/"	
+			}
+		}
+	}
+}
